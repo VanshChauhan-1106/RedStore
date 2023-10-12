@@ -1,2 +1,2 @@
 # RedStore
-ECommerce Web Design
+ECommerce Web Design Project
